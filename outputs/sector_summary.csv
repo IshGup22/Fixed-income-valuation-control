@@ -1,0 +1,4 @@
+sector,positions,market_value_usd,market_pl_usd,rate_pl_usd,spread_pl_usd,exceptions,illustrative_excess_diff_usd
+Government,53,16891890.81,-45688.51,-34988.4,-10700.119999999999,6,21931.829999999998
+High Yield,29,10074716.11,-17734.36,-14777.869999999999,-2956.44,2,6521.71
+Investment Grade,78,29171031.52,-57847.36,-53448.41,-4399.020000000001,10,29753.88

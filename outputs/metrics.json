@@ -1,0 +1,14 @@
+{
+  "bonds": 160,
+  "portfolio_face_usd": 55600000,
+  "portfolio_mv_usd": 56137638.44,
+  "ipv_exceptions": 18,
+  "exception_rate_pct": 11.25,
+  "total_market_pl_usd": -121270.23,
+  "rates_pl_usd": -103214.68,
+  "spreads_pl_usd": -18055.58,
+  "dv01_usd_per_bp": 17077.23,
+  "illustrative_excess_diff_usd": 58207.42,
+  "max_price_difference_per_100": 1.636,
+  "pricing_variance_reconciles": true
+}
