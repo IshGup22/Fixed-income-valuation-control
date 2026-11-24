@@ -96,9 +96,6 @@ You can also inspect `Fixed_Income_Valuation_Control.xlsx` without running the s
 - Example tolerance limits are educational, **not** global IPV policy
 - No financial, investment, valuation-control, or audit assurance claims
 
-## Interview explanation
-
-> I built a synthetic bond portfolio model to test how market-rate and credit-spread changes flow through P&L and to separate normal valuation movements from pricing exceptions. I reconciled rate and spread components, checked simulated desk marks against a three-source median, and created an Excel review queue for positions outside illustrative tolerance bands. The result was 18 flagged positions from 160, with a modeled $121K market loss, mostly explained by rates. It taught me how to support valuation controls while respecting the distinction between simulated checks and actual bank IPV/VA policy.
 
 ## Author
 
